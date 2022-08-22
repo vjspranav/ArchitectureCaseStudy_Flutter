@@ -1,8 +1,5 @@
-# IEEE template
-An initial starting template for working on papers in IEEE format. 
-More details will be updated soon.
+# A case study on Apache
+This report is part of the mini project for the course Topics in Software Engineering. 
 
-## Bibliography
-For bibliography please look at the bib folder for examples.  
-iInline bibliography and external biliography can be done, both of them are presented in the paper and you may choose whichever you see fit.
-A references.bib file is created and used for demonstration. 
+# Bootstrapped using 
+https://github.com/vjspranav/latex_templates
