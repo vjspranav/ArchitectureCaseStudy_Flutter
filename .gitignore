@@ -5,3 +5,6 @@
 *.fls
 *.log
 *.out
+*.gz
+
+.vscode/
